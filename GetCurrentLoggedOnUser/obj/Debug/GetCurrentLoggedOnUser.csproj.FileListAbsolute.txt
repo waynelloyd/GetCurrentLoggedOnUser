@@ -1,0 +1,15 @@
+C:\Users\Wayne\Documents\Visual Studio 2008\Projects\GetCurrentLoggedOnUser\GetCurrentLoggedOnUser\bin\Debug\GetCurrentLoggedOnUser.exe
+C:\Users\Wayne\Documents\Visual Studio 2008\Projects\GetCurrentLoggedOnUser\GetCurrentLoggedOnUser\bin\Debug\GetCurrentLoggedOnUser.pdb
+C:\Users\Wayne\Documents\Visual Studio 2008\Projects\GetCurrentLoggedOnUser\GetCurrentLoggedOnUser\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Wayne\Documents\Visual Studio 2008\Projects\GetCurrentLoggedOnUser\GetCurrentLoggedOnUser\obj\Debug\GetCurrentLoggedOnUser.Form1.resources
+C:\Users\Wayne\Documents\Visual Studio 2008\Projects\GetCurrentLoggedOnUser\GetCurrentLoggedOnUser\obj\Debug\GetCurrentLoggedOnUser.Properties.Resources.resources
+C:\Users\Wayne\Documents\Visual Studio 2008\Projects\GetCurrentLoggedOnUser\GetCurrentLoggedOnUser\obj\Debug\GetCurrentLoggedOnUser.csproj.GenerateResource.Cache
+C:\Users\Wayne\Documents\Visual Studio 2008\Projects\GetCurrentLoggedOnUser\GetCurrentLoggedOnUser\obj\Debug\GetCurrentLoggedOnUser.exe
+C:\Users\Wayne\Documents\Visual Studio 2008\Projects\GetCurrentLoggedOnUser\GetCurrentLoggedOnUser\obj\Debug\GetCurrentLoggedOnUser.pdb
+C:\Users\Wayne\Documents\Visual Studio 2008\Projects\GetCurrentLoggedOnUser\GetCurrentLoggedOnUser\obj\Debug\GetCurrentLoggedOnUser.AboutBox1.resources
+C:\Users\Wayne\Documents\Visual Studio 2008\Projects\GetCurrentLoggedOnUser\GetCurrentLoggedOnUser\bin\Debug\GetCurrentLoggedOnUser.exe.manifest
+C:\Users\Wayne\Documents\Visual Studio 2008\Projects\GetCurrentLoggedOnUser\GetCurrentLoggedOnUser\bin\Debug\GetCurrentLoggedOnUser.application
+C:\Users\Wayne\Documents\Visual Studio 2008\Projects\GetCurrentLoggedOnUser\GetCurrentLoggedOnUser\obj\Debug\GetCurrentLoggedOnUser.TrustInfo.xml
+C:\Users\Wayne\Documents\Visual Studio 2008\Projects\GetCurrentLoggedOnUser\GetCurrentLoggedOnUser\obj\Debug\GetCurrentLoggedOnUser.exe.manifest
+C:\Users\Wayne\Documents\Visual Studio 2008\Projects\GetCurrentLoggedOnUser\GetCurrentLoggedOnUser\obj\Debug\GetCurrentLoggedOnUser.application
+C:\Users\Wayne\Documents\Visual Studio 2008\Projects\GetCurrentLoggedOnUser\GetCurrentLoggedOnUser\bin\Debug\GetCurrentLoggedOnUser.exe.config

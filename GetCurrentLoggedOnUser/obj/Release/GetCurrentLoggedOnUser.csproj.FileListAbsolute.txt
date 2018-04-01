@@ -1,0 +1,15 @@
+C:\Users\Wayne\Documents\Visual Studio 2008\Projects\GetCurrentLoggedOnUser\GetCurrentLoggedOnUser\bin\Release\GetCurrentLoggedOnUser.exe.manifest
+C:\Users\Wayne\Documents\Visual Studio 2008\Projects\GetCurrentLoggedOnUser\GetCurrentLoggedOnUser\bin\Release\GetCurrentLoggedOnUser.application
+C:\Users\Wayne\Documents\Visual Studio 2008\Projects\GetCurrentLoggedOnUser\GetCurrentLoggedOnUser\bin\Release\GetCurrentLoggedOnUser.exe
+C:\Users\Wayne\Documents\Visual Studio 2008\Projects\GetCurrentLoggedOnUser\GetCurrentLoggedOnUser\bin\Release\GetCurrentLoggedOnUser.pdb
+C:\Users\Wayne\Documents\Visual Studio 2008\Projects\GetCurrentLoggedOnUser\GetCurrentLoggedOnUser\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Wayne\Documents\Visual Studio 2008\Projects\GetCurrentLoggedOnUser\GetCurrentLoggedOnUser\obj\Release\GetCurrentLoggedOnUser.AboutBox1.resources
+C:\Users\Wayne\Documents\Visual Studio 2008\Projects\GetCurrentLoggedOnUser\GetCurrentLoggedOnUser\obj\Release\GetCurrentLoggedOnUser.Form1.resources
+C:\Users\Wayne\Documents\Visual Studio 2008\Projects\GetCurrentLoggedOnUser\GetCurrentLoggedOnUser\obj\Release\GetCurrentLoggedOnUser.Properties.Resources.resources
+C:\Users\Wayne\Documents\Visual Studio 2008\Projects\GetCurrentLoggedOnUser\GetCurrentLoggedOnUser\obj\Release\GetCurrentLoggedOnUser.csproj.GenerateResource.Cache
+C:\Users\Wayne\Documents\Visual Studio 2008\Projects\GetCurrentLoggedOnUser\GetCurrentLoggedOnUser\obj\Release\GetCurrentLoggedOnUser.TrustInfo.xml
+C:\Users\Wayne\Documents\Visual Studio 2008\Projects\GetCurrentLoggedOnUser\GetCurrentLoggedOnUser\obj\Release\GetCurrentLoggedOnUser.exe.manifest
+C:\Users\Wayne\Documents\Visual Studio 2008\Projects\GetCurrentLoggedOnUser\GetCurrentLoggedOnUser\obj\Release\GetCurrentLoggedOnUser.application
+C:\Users\Wayne\Documents\Visual Studio 2008\Projects\GetCurrentLoggedOnUser\GetCurrentLoggedOnUser\obj\Release\GetCurrentLoggedOnUser.exe
+C:\Users\Wayne\Documents\Visual Studio 2008\Projects\GetCurrentLoggedOnUser\GetCurrentLoggedOnUser\obj\Release\GetCurrentLoggedOnUser.pdb
+C:\Users\Wayne\Documents\Visual Studio 2008\Projects\GetCurrentLoggedOnUser\GetCurrentLoggedOnUser\bin\Release\GetCurrentLoggedOnUser.exe.config
